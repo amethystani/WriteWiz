@@ -11,6 +11,7 @@ WriteWiz is an AI-powered tool that uses the Llama2 7b model to generate blog pa
 1. Clone the repository: `git clone https://github.com/amethystani/WriteWiz.git`
 2. Navigate to the project directory: `cd WriteWiz`
 3. Install dependencies using pip: `pip install -r requirements.txt`
+4. Download Llama model from META via HuggingFace.
 
 ## Usage 🚀
 1. Run the application with Python: `python app.py`
